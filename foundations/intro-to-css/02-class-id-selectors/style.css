@@ -1,0 +1,20 @@
+.n1{
+    background-color:pink;
+    color:black;
+    font-weight:200;
+}
+#id{
+    color:blue;
+    font-size: 40px;
+    font-family:"Times New Roman",serif;
+}
+.n2{
+    font-size: 30px;
+    font-weight: 300;
+}
+#id2{
+    color:black;
+    background-color: limegreen;
+    font-weight: bold;
+    font-size:25px;
+}
